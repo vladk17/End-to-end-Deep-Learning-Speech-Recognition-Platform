@@ -10,5 +10,5 @@ Acoustic models, trained on this data set, are available at kaldi-asr.org and la
 
 
 ## Plan:
-1. Need a baseline model and pipeline
+1. Set-up the repository and the data for the baseline model and pipline on local machine and on cloud vm (what cloud? what basic configuration to create?)
 2. Start with wav2letter as it looks to be more user friendly at the first glance
