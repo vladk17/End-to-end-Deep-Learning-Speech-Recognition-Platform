@@ -15,5 +15,5 @@ Acoustic models, trained on this data set, are available at kaldi-asr.org and la
 1. Set-up the repository and the data for the baseline model and pipline on local machine and on cloud vm (what cloud? what basic configuration to create?)
 2. Define the E2E ASR pipeline block diagram
 3. Define milestones
-> 1. Reproduce ["Jasper: An End-to-End Convolutional Neural Acoustic Model"](https://arxiv.org/pdf/1904.03288.pdf)
+> 1. Reproduce ["Jasper: An End-to-End Convolutional Neural Acoustic Model"](https://arxiv.org/pdf/1904.03288.pdf) - Minimal configuration
 
