@@ -9,8 +9,10 @@ Acoustic models, trained on this data set, are available at kaldi-asr.org and la
 4. https://github.com/facebookresearch/wav2letter (try also to get info from FB wav2letter Users group https://www.facebook.com/groups/717232008481207/)
 5. https://news.developer.nvidia.com/new-asr-model-speech-toolkit-interspeech2019/ , https://github.com/NVIDIA/NeMo, https://devblogs.nvidia.com/neural-modules-for-speech-language-models/, 
 ["Jasper: An End-to-End Convolutional Neural Acoustic Model"](https://arxiv.org/pdf/1904.03288.pdf), https://github.com/NVIDIA/NeMo/blob/master/examples/asr/notebooks/1_ASR_tutorial_using_NeMo.ipynb
-
+6. wav2letter installation is not trivial
 
 ## Plan:
 1. Set-up the repository and the data for the baseline model and pipline on local machine and on cloud vm (what cloud? what basic configuration to create?)
-2. Start with wav2letter as it looks to be more user friendly at the first glance
+2. Define the E2E ASR pipeline block diagram
+3. Define milestones
+
