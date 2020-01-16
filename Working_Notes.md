@@ -16,6 +16,8 @@ Acoustic models, trained on this data set, are available at kaldi-asr.org and la
 2. Define the E2E ASR pipeline block diagram
 3. Define milestones
 > 1. Discuss ["Jasper: An End-to-End Convolutional Neural Acoustic Model"](https://arxiv.org/pdf/1904.03288.pdf)
-> * 1.1 Jasper Architecture
-> 2. Reproduce ["Jasper: An End-to-End Convolutional Neural Acoustic Model"](https://arxiv.org/pdf/1904.03288.pdf) - Minimal configuration
+> * 1.1 Jasper Architecture - Select the simplest
+> 2. Reproduce ["Jasper: An End-to-End Convolutional Neural Acoustic Model"](https://arxiv.org/pdf/1904.03288.pdf)
+> 2.1 Setup Minimal configuration
+> 2.3 Verify that the WER is not far from 3%
 
