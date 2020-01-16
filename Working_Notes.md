@@ -22,7 +22,7 @@ Acoustic models, trained on this data set, are available at kaldi-asr.org and la
 > 1. Discuss ["Jasper: An End-to-End Convolutional Neural Acoustic Model"](https://arxiv.org/pdf/1904.03288.pdf)
 > * 1.1 Jasper Architecture - Select the simplest ("Our largest version uses 54 convolutional layers (333M parameters), while our smaller model uses 34 (201M parameters)")
 > 2. Reproduce ["Jasper: An End-to-End Convolutional Neural Acoustic Model"](https://arxiv.org/pdf/1904.03288.pdf)
-> 2.1 [getting-started by NVIDIA](https://nvidia.github.io/OpenSeq2Seq/html/speech-recognition#getting-started)
-> 2.2 Setup Minimal configuration
-> 2.3 Verify that the WER is not far from 3%
+> * 2.1 [getting-started by NVIDIA](https://nvidia.github.io/OpenSeq2Seq/html/speech-recognition#getting-started)
+> * 2.2 Setup Minimal configuration
+> * 2.3 Verify that the WER is not far from 3%
 
