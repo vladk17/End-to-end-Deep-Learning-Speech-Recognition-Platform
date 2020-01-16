@@ -10,6 +10,10 @@ Acoustic models, trained on this data set, are available at kaldi-asr.org and la
 5. https://news.developer.nvidia.com/new-asr-model-speech-toolkit-interspeech2019/ , https://github.com/NVIDIA/NeMo, https://devblogs.nvidia.com/neural-modules-for-speech-language-models/, 
 ["Jasper: An End-to-End Convolutional Neural Acoustic Model"](https://arxiv.org/pdf/1904.03288.pdf), https://github.com/NVIDIA/NeMo/blob/master/examples/asr/notebooks/1_ASR_tutorial_using_NeMo.ipynb
 6. wav2letter installation is not trivial
+7. Datasets:
+* LibriSpeech
+* Wall Street Journal and the Hub5’00 conversational evaluation datasets
+8.
 
 ## Plan:
 1. Set-up the repository and the data for the baseline model and pipline on local machine and on cloud vm (what cloud? what basic configuration to create?)
