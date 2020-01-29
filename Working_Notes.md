@@ -19,6 +19,7 @@ Acoustic models, trained on this data set, are available at kaldi-asr.org and la
 8. [wav2vec: Unsupervised Pre-training for Speech Recognition](https://research.fb.com/publications/wav2vec-unsupervised-pre-training-for-speech-recognition/)
 9. [Wav2vec: State-of-the-art speech recognition through self-supervision](https://ai.facebook.com/blog/wav2vec-state-of-the-art-speech-recognition-through-self-supervision/)
 10. [Self-supervision and building more robust speech recognition systems](https://ai.facebook.com/blog/self-supervision-and-building-more-robust-speech-recognition-systems/)
+11. [Deep Learning for Speech Recognition (Adam Coates, Baidu)](https://www.youtube.com/watch?v=g-sndkf7mCs&t=937s)
 
 ## Plan:
 1. Set-up the repository and the data for the baseline model and pipline on local machine and on cloud vm (what cloud? what basic configuration to create?)
