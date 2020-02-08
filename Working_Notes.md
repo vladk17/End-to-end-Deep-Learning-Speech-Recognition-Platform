@@ -4,6 +4,9 @@
 1. [LibriSpeech ASR corpus](http://www.openslr.org/12) is a corpus of approximately 1000 hours of 16kHz read English speech. 
 The data is derived from read audiobooks from the LibriVox project, and has been carefully segmented and aligned.<br>
 Acoustic models, trained on this data set, are available at kaldi-asr.org and language models, suitable for evaluation can be found at http://www.openslr.org/11/.
+
+    The paper ["LibriSpeech: an ASR corpus based on public domain audio books"](http://www.danielpovey.com/files/2015_icassp_librispeech.pdf)
+
 2. What is kaldi and what should we know about it?
 3. https://nvidia.github.io/OpenSeq2Seq/html/speech-recognition,<br> https://nvidia.github.io/OpenSeq2Seq/html/speech-recognition/jasper.html, <br>https://arxiv.org/pdf/1904.03288.pdf, <br>https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/SpeechRecognition/Jasper
 4. https://github.com/facebookresearch/wav2letter (try also to get info from FB wav2letter Users group https://www.facebook.com/groups/717232008481207/)
