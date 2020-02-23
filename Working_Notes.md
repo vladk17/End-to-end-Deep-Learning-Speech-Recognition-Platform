@@ -26,6 +26,7 @@ Acoustic models, trained on this data set, are available at kaldi-asr.org and la
 12. [Mixed Precision Training for NLP and Speech Recognition with OpenSeq2Seq](https://devblogs.nvidia.com/mixed-precision-nlp-speech-openseq2seq/?fbclid=IwAR3liPZgoBM5lboHFiA4uNxE6YWOCblFal-odajiBN5SdMOAz7eIhWFHHLM)
 13. [Develop Smaller Speech Recognition Models with NVIDIA’s NeMo Framework](https://devblogs.nvidia.com/develop-smaller-speech-recognition-models-with-nvidias-nemo-framework/)
 14. [BERT](https://github.com/google-research/bert)
+15. [Improving speech recognition with BERTx2 post-processing model (NeMo)](https://nvidia.github.io/NeMo/nlp/asr-improvement.html)
 
 ## Plan:
 1. Set-up the repository and the data for the baseline model and pipline on local machine and on cloud vm (what cloud? what basic configuration to create?)
