@@ -27,6 +27,7 @@ Acoustic models, trained on this data set, are available at kaldi-asr.org and la
 13. [Develop Smaller Speech Recognition Models with NVIDIA’s NeMo Framework](https://devblogs.nvidia.com/develop-smaller-speech-recognition-models-with-nvidias-nemo-framework/)
 14. [BERT](https://github.com/google-research/bert)
 15. [Improving speech recognition with BERTx2 post-processing model (NeMo)](https://nvidia.github.io/NeMo/nlp/asr-improvement.html)
+16. [Building Spanish N-Gram Language Model with KenLM](https://yidatao.github.io/2017-05-31/kenlm-ngram/)
 
 ## Plan:
 1. Set-up the repository and the data for the baseline model and pipline on local machine and on cloud vm (what cloud? what basic configuration to create?)
