@@ -37,6 +37,7 @@ Acoustic models, trained on this data set, are available at kaldi-asr.org and la
 ### AWS:
 1. [AWS Deep Learning AMI](https://docs.aws.amazon.com/dlami/latest/devguide/what-is-dlami.html)
 2. [Launch an AWS Deep Learning AMI](https://aws.amazon.com/getting-started/tutorials/get-started-dlami/)
+3. [EC2 User Guide](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html)
 
 ## Plan:
 1. Set up training environment in the AWS cloud 
