@@ -51,7 +51,8 @@ Recomendatins:
   * 4.1 Take a model that was pre-trained on LibriSpeech, and use it to predict the transcript of a different dataset online (e.g. AN4 or a different set)
       * 4.1.1. Make sure you can fine-tune a trained model. Start with the model NVidia already trained on LibriSpeech - https://nvidia.github.io/NeMo/asr/tutorial.html#fine-tuning 
       * 4.1.2. Use code to evaluate performance, including checking the specific differences in predictions - we have code for that here -  https://github.com/gong-io/wer_analysis and I'll share more info about it later
-      * 4.1.3. Add a Domain-specific Language Model, using KenLM (there are guides for it in the NeMo documentation)
+      * 4.1.3. Add a Domain-specific Language Model, using KenLM (there are guides for it in the NeMo documentation)<br>
+      example:
       ```
       * cd ``<nemo_git_root>/scripts``
       * `./install_decoders.sh`
