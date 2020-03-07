@@ -45,5 +45,11 @@ Acoustic models, trained on this data set, are available at kaldi-asr.org and la
 2. Know the elements of the Pipeline/Model from the source code of NeMo, DeepSpeech decoders, kenlm.  
 3. Jasper and QuartzNet - know their architectures (from the source code). Know how to change configurations. Know how to work with pretrained models. Know how to work with greedy CTC and with language models. In colab and AWS.  
 4. Transfer Learning [link](https://devblogs.nvidia.com/how-to-build-domain-specific-automatic-speech-recognition-models-on-gpus/)
-5. Get numbers: measure WER, learning/inference time, etc.
+Recomendatins:
+* 4.1 Take a model that was pre-trained on LibriSpeech, and use it to predict the transcript of a different dataset online (e.g. AN4 or a different set)
+    * 4.1.1. Make sure you can fine-tune a trained model. Start with the model NVidia already trained on LibriSpeech - https://nvidia.github.io/NeMo/asr/tutorial.html#fine-tuning 
+    * 4.1.2. Use code to evaluate performance, including checking the specific differences in predictions - we have code for that here -  https://github.com/gong-io/wer_analysis and I'll share more info about it later
+    * 4.1.3. Add a Domain-specific Language Model, using KenLM (there are guides for it in the NeMo documentation)
+    * 4.1.4. Use n-gram and transformer based decoders instead of a greedy decoder
+
 
