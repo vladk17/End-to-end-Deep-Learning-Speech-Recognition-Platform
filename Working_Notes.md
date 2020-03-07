@@ -29,9 +29,17 @@ Acoustic models, trained on this data set, are available at kaldi-asr.org and la
 15. [Improving speech recognition with BERTx2 post-processing model (NeMo)](https://nvidia.github.io/NeMo/nlp/asr-improvement.html)
 16. [Building Spanish N-Gram Language Model with KenLM](https://yidatao.github.io/2017-05-31/kenlm-ngram/)
 
+## AWS:
+1. [AWS Deep Learning AMI](https://docs.aws.amazon.com/dlami/latest/devguide/what-is-dlami.html)
+
 ## Plan:
-1. Set-up the repository and the data for the baseline model and pipline on local machine and on cloud vm (what cloud? what basic configuration to create?)
-2. Define the E2E ASR pipeline block diagram
+1. Set up a training environment in the AWS cloud 
+* 1.1. Questions: type of machine, cluster, type and number of GPUs... (small and large configurations)
+* 1.2. Reproduce "example notebook" content on AWS machine (in notebook and plane python script)
+* 1.3. Jasper and QuartzNet - know their Internals. Now how to change configurations. Know how to work with pretrained models. Know how to work with greedy CTC and with language models. In colab and AWS.  
+* 1.4. Know source code of NeMo, 
+
+
 3. Define milestones
 > 1. Discuss ["Jasper: An End-to-End Convolutional Neural Acoustic Model"](https://arxiv.org/pdf/1904.03288.pdf)
 > * 1.1 Jasper Architecture - Select the simplest ("Our largest version uses 54 convolutional layers (333M parameters), while our smaller model uses 34 (201M parameters)")
