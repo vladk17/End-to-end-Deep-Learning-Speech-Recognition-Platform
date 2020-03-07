@@ -52,6 +52,11 @@ Recomendatins:
       * 4.1.1. Make sure you can fine-tune a trained model. Start with the model NVidia already trained on LibriSpeech - https://nvidia.github.io/NeMo/asr/tutorial.html#fine-tuning 
       * 4.1.2. Use code to evaluate performance, including checking the specific differences in predictions - we have code for that here -  https://github.com/gong-io/wer_analysis and I'll share more info about it later
       * 4.1.3. Add a Domain-specific Language Model, using KenLM (there are guides for it in the NeMo documentation)
+      ```
+      * cd ``<nemo_git_root>/scripts``
+      * `./install_decoders.sh`
+      * `./build_6-gram_OpenSLR_lm.sh`
+      ```
       * 4.1.4. Use n-gram and transformer based decoders instead of a greedy decoder
 
 
