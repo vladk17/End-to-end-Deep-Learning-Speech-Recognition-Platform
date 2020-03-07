@@ -34,8 +34,9 @@ Acoustic models, trained on this data set, are available at kaldi-asr.org and la
 16. [Building Spanish N-Gram Language Model with KenLM](https://yidatao.github.io/2017-05-31/kenlm-ngram/)
 
 
-## AWS:
+### AWS:
 1. [AWS Deep Learning AMI](https://docs.aws.amazon.com/dlami/latest/devguide/what-is-dlami.html)
+2. [Launch an AWS Deep Learning AMI](https://aws.amazon.com/getting-started/tutorials/get-started-dlami/)
 
 ## Plan:
 1. Set up training environment in the AWS cloud 
