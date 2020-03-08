@@ -33,6 +33,8 @@ Acoustic models, trained on this data set, are available at kaldi-asr.org and la
 15. [Improving speech recognition with BERTx2 post-processing model (NeMo)](https://nvidia.github.io/NeMo/nlp/asr-improvement.html)
 16. [Building Spanish N-Gram Language Model with KenLM](https://yidatao.github.io/2017-05-31/kenlm-ngram/)
 17. [Domain Specific – NeMo ASR Application. NVIDIA docker](https://ngc.nvidia.com/catalog/containers/nvidia:nemo_asr_app_img)
+18. [NeMo Models collection](https://ngc.nvidia.com/catalog/models?orderBy=modifiedDESC&query=nemo&quickFilter=models&filters=)
+19. [NeMo Containers collection](https://ngc.nvidia.com/catalog/containers?orderBy=modifiedDESC&pageNumber=0&query=nemo&quickFilter=containers&filters=)
 
 
 ### AWS:
