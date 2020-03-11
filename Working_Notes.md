@@ -62,9 +62,14 @@ dependencies:
   - scikit-learn = 0.18.1
   
 conda env create -f environment.yml
-conda activate py36
 conda init bash
+conda activate py36
 ```
+ssh with local port mapping for jupyter (from git cli, cygwin, etc.):
+```
+ssh -L localhost:8888:localhost:8888 -i <your .pem filename> ubuntu@<your instance DNS>
+```
+
 3. [EC2 User Guide](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html)
 
 ## Plan:
