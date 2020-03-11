@@ -39,7 +39,32 @@ Acoustic models, trained on this data set, are available at kaldi-asr.org and la
 
 ### AWS:
 1. [AWS Deep Learning AMI](https://docs.aws.amazon.com/dlami/latest/devguide/what-is-dlami.html)
-2. [Launch an AWS Deep Learning AMI](https://aws.amazon.com/getting-started/tutorials/get-started-dlami/)
+2. [Launch an AWS Deep Learning AMI](https://aws.amazon.com/getting-started/tutorials/get-started-dlami/)<br>
+installation commands for ec2 deep learning base ubuntu instance:
+```
+wget "https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh" -O "Miniconda3-latest-Linux-x86_64.sh"
+bash "Miniconda3-latest-Linux-x86_64.sh" -b
+echo "export PATH=\"$HOME/miniconda3/bin:\$PATH\"" >> ~/.bashrc
+export PATH="$HOME/miniconda3/bin:$PATH"
+vim environment.yml
+
+name: py36
+
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python = 3.6
+  - jupyter
+  - matplotlib = 2.0.2
+  - pandas = 0.20.1
+  - numpy = 1.12.1
+  - scikit-learn = 0.18.1
+  
+conda env create -f environment.yml
+conda activate py36
+conda init bash
+```
 3. [EC2 User Guide](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html)
 
 ## Plan:
