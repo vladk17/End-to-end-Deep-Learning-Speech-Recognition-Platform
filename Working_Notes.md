@@ -72,6 +72,7 @@ ssh -L localhost:8888:localhost:8888 -i <your .pem filename> ubuntu@<your instan
 
 3. [EC2 User Guide](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html)
 4. [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
+5. [AWS Pricing](https://aws.amazon.com/ec2/pricing/)
 
 ## Plan:
 1. Set up training environment in the AWS cloud 
