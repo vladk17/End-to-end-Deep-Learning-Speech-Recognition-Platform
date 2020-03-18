@@ -35,6 +35,7 @@ Acoustic models, trained on this data set, are available at kaldi-asr.org and la
 17. [Domain Specific – NeMo ASR Application. NVIDIA docker](https://ngc.nvidia.com/catalog/containers/nvidia:nemo_asr_app_img)
 18. [NeMo Models collection](https://ngc.nvidia.com/catalog/models?orderBy=modifiedDESC&query=nemo&quickFilter=models&filters=)
 19. [NeMo Containers collection](https://ngc.nvidia.com/catalog/containers?orderBy=modifiedDESC&pageNumber=0&query=nemo&quickFilter=containers&filters=)
+20. [Patter](https://github.com/ryanleary/patter) speech-to-text framework in PyTorch with initial support for the DeepSpeech2 architecture (and variants of it).
 
 
 ### AWS:
