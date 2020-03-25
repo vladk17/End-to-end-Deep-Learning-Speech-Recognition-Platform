@@ -97,4 +97,6 @@ Recomendatins:
       ```
       * 4.1.4. Use n-gram and transformer based decoders instead of a greedy decoder
 
+### First Milestone: "Run a pretrained DL network to make predictions on LibriSpeech.Fine tune LM for WSJ dataset"
 
+The milestone Based on [Domain Specific – NeMo ASR Application](https://ngc.nvidia.com/catalog/containers/nvidia:nemo_asr_app_img) from NVIDIA
