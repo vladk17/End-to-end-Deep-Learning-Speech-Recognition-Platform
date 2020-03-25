@@ -99,4 +99,6 @@ Recomendatins:
 
 #### First Milestone: "Run a pretrained DL network to make predictions on LibriSpeech.Fine tune LM for WSJ dataset"
 
-The milestone Based on [Domain Specific – NeMo ASR Application](https://ngc.nvidia.com/catalog/containers/nvidia:nemo_asr_app_img) from NVIDIA
+The milestone Based on [Domain Specific – NeMo ASR Application](https://ngc.nvidia.com/catalog/containers/nvidia:nemo_asr_app_img) from NVIDIA, which provides docker image that contains the complete Domain Specific NeMo ASR application (including notebooks, tools and scripts). <br>
+quartznet15x5 model pretrained on LibriSpeech and Mozilla's EN Common Voice "validated" set is [here](https://ngc.nvidia.com/catalog/models/nvidia:quartznet15x5). We will tune this model for WSJ dataset.<br>
+we will compare the preformance and the parameters of our tuned model with the model tuned by NVDIA, which is located [here](https://ngc.nvidia.com/catalog/models/nvidia:wsj_quartznet_15x5)
