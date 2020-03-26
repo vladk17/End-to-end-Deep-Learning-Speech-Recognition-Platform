@@ -24,6 +24,13 @@ Acoustic models, trained on this data set, are available at kaldi-asr.org and la
 
 * 7.2 Wall Street Journal and the Hub5’00 conversational evaluation datasets
 
+WSJ is part of the Linguistic Data Consortium and can be found here:<br>
+CSR-I (WSJ0) Complete: https://catalog.ldc.upenn.edu/LDC93S6A<br>
+CSR-II (WSJ1) Complete: https://catalog.ldc.upenn.edu/LDC94S13A<br>
+Note: To download this dataset a license is required please refer to [LDC to learn more](https://www.ldc.upenn.edu/language-resources/data/obtaining).<br>
+
+
+
 8. [wav2vec: Unsupervised Pre-training for Speech Recognition](https://research.fb.com/publications/wav2vec-unsupervised-pre-training-for-speech-recognition/)
 9. [Wav2vec: State-of-the-art speech recognition through self-supervision](https://ai.facebook.com/blog/wav2vec-state-of-the-art-speech-recognition-through-self-supervision/)
 10. [Self-supervision and building more robust speech recognition systems](https://ai.facebook.com/blog/self-supervision-and-building-more-robust-speech-recognition-systems/)
