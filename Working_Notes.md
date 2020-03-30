@@ -29,6 +29,7 @@ WSJ is part of the Linguistic Data Consortium and can be found here:<br>
 CSR-I (WSJ0) Complete: https://catalog.ldc.upenn.edu/LDC93S6A<br>
 CSR-II (WSJ1) Complete: https://catalog.ldc.upenn.edu/LDC94S13A<br>
 Note: To download this dataset a license is required please refer to [LDC to learn more](https://www.ldc.upenn.edu/language-resources/data/obtaining).<br>
+Wav2Letter recipes for WSJ is [here](https://github.com/facebookresearch/wav2letter/tree/master/recipes/data/wsj) 
 
 
 
