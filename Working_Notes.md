@@ -45,6 +45,7 @@ Note: To download this dataset a license is required please refer to [LDC to lea
 18. [NeMo Models collection](https://ngc.nvidia.com/catalog/models?orderBy=modifiedDESC&query=nemo&quickFilter=models&filters=)
 19. [NeMo Containers collection](https://ngc.nvidia.com/catalog/containers?orderBy=modifiedDESC&pageNumber=0&query=nemo&quickFilter=containers&filters=)
 20. [Patter](https://github.com/ryanleary/patter) speech-to-text framework in PyTorch with initial support for the DeepSpeech2 architecture (and variants of it).
+21. [A Fully Differentiable Beam Search Decoder](https://arxiv.org/abs/1902.06022) paper
 
 
 ### AWS:
