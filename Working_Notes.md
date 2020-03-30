@@ -15,7 +15,8 @@ https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/SpeechRecogni
 * [Wave2Letter+](https://github.com/facebookresearch/wav2letter) (wav2letter installation is not trivial)
 * Jasper DR 10x5
 * [ESPnet](https://github.com/espnet/espnet)
-7. Datasets:
+7. Datasets: <br>
+> [Audio Data Links](https://github.com/robmsmt/ASR_Audio_Data_Links), a list of publically and privately available audio data for ASR
 * 7.1. [LibriSpeech ASR corpus](http://www.openslr.org/12) is a corpus of approximately 1000 hours of 16kHz read English speech. 
 The data is derived from read audiobooks from the LibriVox project, and has been carefully segmented and aligned.<br>
 Acoustic models, trained on this data set, are available at kaldi-asr.org and language models, suitable for evaluation can be found at http://www.openslr.org/11/.
