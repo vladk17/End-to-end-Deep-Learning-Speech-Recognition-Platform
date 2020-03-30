@@ -12,7 +12,7 @@ https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/SpeechRecogni
 ["Jasper: An End-to-End Convolutional Neural Acoustic Model"](https://arxiv.org/pdf/1904.03288.pdf),<br> https://github.com/NVIDIA/NeMo/blob/master/examples/asr/notebooks/1_ASR_tutorial_using_NeMo.ipynb
 6. [End2End Models](https://nvidia.github.io/OpenSeq2Seq/html/speech-recognition):
 * [DeepSpeech2](https://github.com/PaddlePaddle/DeepSpeech)
-* [Wave2Letter+](https://github.com/facebookresearch/wav2letter) (wav2letter installation is not trivial)
+* [Wave2Letter+](https://github.com/facebookresearch/wav2letter) (wav2letter installation is not trivial), [introductory presentation](https://www.infoq.com/presentations/wav2letter-facebook/)
 * Jasper DR 10x5
 * [ESPnet](https://github.com/espnet/espnet)
 7. Datasets: <br>
