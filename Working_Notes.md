@@ -10,8 +10,9 @@ https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/SpeechRecogni
 4. https://github.com/facebookresearch/wav2letter (try also to get info from FB wav2letter Users group https://www.facebook.com/groups/717232008481207/)
 5. https://news.developer.nvidia.com/new-asr-model-speech-toolkit-interspeech2019/ ,<br>https://github.com/NVIDIA/NeMo, https://devblogs.nvidia.com/neural-modules-for-speech-language-models/,<br> 
 ["Jasper: An End-to-End Convolutional Neural Acoustic Model"](https://arxiv.org/pdf/1904.03288.pdf),<br> https://github.com/NVIDIA/NeMo/blob/master/examples/asr/notebooks/1_ASR_tutorial_using_NeMo.ipynb
-6. Frameworks
-* [OpenSeq2Seq](https://nvidia.github.io/OpenSeq2Seq/html/speech-recognition):
+6. Frameworks:
+* [NeMo](https://github.com/NVIDIA/NeMo)
+* [OpenSeq2Seq](https://nvidia.github.io/OpenSeq2Seq/html/speech-recognition)
 * [DeepSpeech2](https://github.com/PaddlePaddle/DeepSpeech)
 * [Wave2Letter+](https://github.com/facebookresearch/wav2letter) (wav2letter installation is not trivial), [introductory presentation](https://www.infoq.com/presentations/wav2letter-facebook/)
 * [ESPnet](https://github.com/espnet/espnet)
