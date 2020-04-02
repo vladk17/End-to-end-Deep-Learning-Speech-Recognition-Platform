@@ -48,6 +48,8 @@ Wav2Letter recipes for WSJ is [here](https://github.com/facebookresearch/wav2let
 19. [NeMo Containers collection](https://ngc.nvidia.com/catalog/containers?orderBy=modifiedDESC&pageNumber=0&query=nemo&quickFilter=containers&filters=)
 20. [Patter](https://github.com/ryanleary/patter) speech-to-text framework in PyTorch with initial support for the DeepSpeech2 architecture (and variants of it).
 21. ["A Fully Differentiable Beam Search Decoder"](https://arxiv.org/abs/1902.06022), Collobert et al. 
+22. [NVIDIA: Containers For Deep Learning Frameworks User Guide](https://docs.nvidia.com/deeplearning/frameworks/user-guide/index.html)
+23. [NVIDIA Deep Learning Frameworks](https://docs.nvidia.com/deeplearning/frameworks/index.html)
 
 
 ### AWS:
