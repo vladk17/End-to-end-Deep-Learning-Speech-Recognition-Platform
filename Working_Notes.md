@@ -90,7 +90,9 @@ ssh -L localhost:8888:localhost:8888 -i <your .pem filename> ubuntu@<your instan
 
 3. [EC2 User Guide](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/concepts.html)
 4. [AWS Command Line Interface](https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-welcome.html)
-5. [AWS Pricing](https://aws.amazon.com/ec2/pricing/)
+5. [PYTORCH 1.0 DISTRIBUTED TRAINER WITH AMAZON AWS](https://pytorch.org/tutorials/beginner/aws_distributed_training_tutorial.html)
+5.1 [WRITING DISTRIBUTED APPLICATIONS WITH PYTORCH](https://pytorch.org/tutorials/intermediate/dist_tuto.html)
+6. [AWS Pricing](https://aws.amazon.com/ec2/pricing/)
 
 ## Plan:
 1. Set up training environment in the AWS cloud 
