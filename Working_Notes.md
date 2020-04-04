@@ -16,7 +16,7 @@ https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/SpeechRecogni
 * [DeepSpeech2](https://github.com/PaddlePaddle/DeepSpeech)
 * [Wave2Letter+](https://github.com/facebookresearch/wav2letter) (wav2letter installation is not trivial), [introductory presentation](https://www.infoq.com/presentations/wav2letter-facebook/)
 * [ESPnet](https://github.com/espnet/espnet)
-* [SpeechBrain](https://speechbrain.github.io/)
+* [SpeechBrain] (https://speechbrain.github.io/)(by Mila) - so far no publicly shared code, just declarations
 7. Datasets: <br>
 > [Audio Data Links](https://github.com/robmsmt/ASR_Audio_Data_Links), a list of publically and privately available audio data for ASR
 * 7.1. [LibriSpeech ASR corpus](http://www.openslr.org/12) is a corpus of approximately 1000 hours of 16kHz read English speech. 
