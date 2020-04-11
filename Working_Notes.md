@@ -15,7 +15,7 @@ https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/SpeechRecogni
 * [OpenSeq2Seq](https://nvidia.github.io/OpenSeq2Seq/html/speech-recognition)
 * [DeepSpeech2](https://github.com/PaddlePaddle/DeepSpeech)
 * [Wave2Letter+](https://github.com/facebookresearch/wav2letter) (wav2letter installation is not trivial); [introductory presentation](https://www.infoq.com/presentations/wav2letter-facebook/); ["Wav2Letter: an End-to-End ConvNet-based Speech Recognition System"](https://arxiv.org/pdf/1609.03193.pdf), Collobert et. al; ["Letter-Based Speech Recognition with Gated ConvNets"](https://arxiv.org/pdf/1712.09444.pdf), Liptchinsky et. al ;see also [pytorch implementation](https://www.facebook.com/groups/461707137729175/permalink/639744036592150/)
-* [ESPnet](https://github.com/espnet/espnet); ["ESPnet: End-to-End Speech Processing Toolkit"](https://arxiv.org/pdf/1804.00015.pdf), Watanabe et. al
+* [ESPnet](https://github.com/espnet/espnet); ["ESPnet: End-to-End Speech Processing Toolkit"](https://arxiv.org/pdf/1804.00015.pdf), Watanabe et. al; see also ["Very Deep Convolutional Networks for End-To-End Speech Recognition"](https://arxiv.org/pdf/1610.03022.pdf), Zhang et. al.
 * [SpeechBrain] (https://speechbrain.github.io/)(by Mila) - so far no publicly shared code, just declarations
 7. Datasets: <br>
 > [Audio Data Links](https://github.com/robmsmt/ASR_Audio_Data_Links), a list of publically and privately available audio data for ASR
