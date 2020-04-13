@@ -96,6 +96,9 @@ ssh -L localhost:8888:localhost:8888 -i <your .pem filename> ubuntu@<your instan
     5.1 [WRITING DISTRIBUTED APPLICATIONS WITH PYTORCH](https://pytorch.org/tutorials/intermediate/dist_tuto.html)
 6. [AWS Pricing](https://aws.amazon.com/ec2/pricing/)
 
+## Questions and TBDs:
+1. Find a way to support time-stamping of transcribed words
+
 ## Plan:
 1. Set up training environment in the AWS cloud 
   * 1.1. Questions: type of machine, cluster, type and number of GPUs... (small and large configurations)
