@@ -1,12 +1,12 @@
 # Working Notes and the Plan
 
 ## Notes:
-1. [Getting-Started by NVIDIA](https://nvidia.github.io/OpenSeq2Seq/html/speech-recognition#getting-started)
-2. What is kaldi and what should we know about it?
-3. https://nvidia.github.io/OpenSeq2Seq/html/speech-recognition,<br> 
+1. [OpenSeq2Seq by NVIDIA Getting-Started](https://nvidia.github.io/OpenSeq2Seq/html/speech-recognition#getting-started)
+2. https://nvidia.github.io/OpenSeq2Seq/html/speech-recognition,<br> 
 https://nvidia.github.io/OpenSeq2Seq/html/speech-recognition/jasper.html, <br>
 ["Jasper: An End-to-End Convolutional Neural Acoustic Model"](https://arxiv.org/pdf/1904.03288.pdf), Li et al,  <br>
 Scripts for Jasper model to achieve near state of the art accuracy and perform high-performance inference using NVIDIA TensorRT: https://github.com/NVIDIA/DeepLearningExamples/tree/master/PyTorch/SpeechRecognition/Jasper
+3. Kaldi: http://kaldi-asr.org/, https://github.com/kaldi-asr/kaldi
 4. https://github.com/facebookresearch/wav2letter (try also to get info from FB wav2letter Users group https://www.facebook.com/groups/717232008481207/)
 5. https://news.developer.nvidia.com/new-asr-model-speech-toolkit-interspeech2019/ ,<br>https://github.com/NVIDIA/NeMo, https://devblogs.nvidia.com/neural-modules-for-speech-language-models/,<br> 
 ["Jasper: An End-to-End Convolutional Neural Acoustic Model"](https://arxiv.org/pdf/1904.03288.pdf),<br> https://github.com/NVIDIA/NeMo/blob/master/examples/asr/notebooks/1_ASR_tutorial_using_NeMo.ipynb
