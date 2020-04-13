@@ -99,6 +99,7 @@ ssh -L localhost:8888:localhost:8888 -i <your .pem filename> ubuntu@<your instan
 
 ## Questions and TBDs:
 1. Find a way to support time-stamping of transcribed words
+2. Profiling of computation time for learning and inference
 
 ## Plan:
 1. Set up training environment in the AWS cloud 
