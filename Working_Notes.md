@@ -53,6 +53,7 @@ Wav2Letter recipes for WSJ is [here](https://github.com/facebookresearch/wav2let
 Sequence Data with Recurrent Neural Networks](http://www.cs.toronto.edu/~graves/icml_2006.pdf), Graves et al
 22. ["A Fully Differentiable Beam Search Decoder"](https://arxiv.org/abs/1902.06022), Collobert et al. 
 23. ["Multichannel End-to-end Speech Recognition"](https://arxiv.org/pdf/1703.04783.pdf), Ochiai et al.
+24. ["Language independent end-to-end architecture for joint language identification and speech recognition"](https://www.merl.com/publications/docs/TR2017-182.pdf), Watanabe et al
 24. [NVIDIA: Containers For Deep Learning Frameworks User Guide](https://docs.nvidia.com/deeplearning/frameworks/user-guide/index.html)
 25. [NVIDIA Deep Learning Frameworks](https://docs.nvidia.com/deeplearning/frameworks/index.html)
 26. [NVIDIA GPU Cloud on AWS setup guide](https://docs.nvidia.com/ngc/ngc-aws-setup-guide/index.html)
