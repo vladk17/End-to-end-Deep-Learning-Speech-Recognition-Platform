@@ -8,7 +8,7 @@ Scripts for Jasper model to achieve near state of the art accuracy and perform h
 3. Kaldi: http://kaldi-asr.org/, https://github.com/kaldi-asr/kaldi
 4. https://github.com/facebookresearch/wav2letter (try also to get info from FB wav2letter Users group https://www.facebook.com/groups/717232008481207/)
 5. https://news.developer.nvidia.com/new-asr-model-speech-toolkit-interspeech2019/ ,<br>https://github.com/NVIDIA/NeMo, https://devblogs.nvidia.com/neural-modules-for-speech-language-models/,<br> 
-__Jasper__ (Just Another Speech Recognizer) is a deep time delay neural network (TDNN) comprising of blocks of 1D-convolutional layers <br> ["Jasper: An End-to-End Convolutional Neural Acoustic Model"](https://arxiv.org/pdf/1904.03288.pdf), Li et al,<br> https://github.com/NVIDIA/NeMo/blob/master/examples/asr/notebooks/1_ASR_tutorial_using_NeMo.ipynb
+__Jasper__ (Just Another Speech Recognizer) is a deep time delay neural network ([TDNN](https://en.wikipedia.org/wiki/Time_delay_neural_network)) comprising of blocks of 1D-convolutional layers <br> ["Jasper: An End-to-End Convolutional Neural Acoustic Model"](https://arxiv.org/pdf/1904.03288.pdf), Li et al,<br> https://github.com/NVIDIA/NeMo/blob/master/examples/asr/notebooks/1_ASR_tutorial_using_NeMo.ipynb
 6. Frameworks:
 * [NeMo](https://github.com/NVIDIA/NeMo)
 * [OpenSeq2Seq](https://nvidia.github.io/OpenSeq2Seq/html/speech-recognition)
